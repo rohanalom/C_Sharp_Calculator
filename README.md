@@ -1,9 +1,9 @@
 # C# Windows Forms Calculator
 
-## 📌 Overview
+## Overview
 This is a simple **Calculator** application built using **C# and Windows Forms**. It supports basic arithmetic operations and features a clean and user-friendly UI.
 
-## ✨ Features
+## Features
 - ✅ Perform basic arithmetic operations: **Addition (+), Subtraction (-), Multiplication (*), Division (/)**
 - ✅ **Backspace** button to remove the last digit
 - ✅ **Clear (C)** button to reset the input
@@ -16,7 +16,7 @@ This is a simple **Calculator** application built using **C# and Windows Forms**
 - **.NET Framework / .NET Core** – Application runtime
 - **Visual Studio** – IDE used for development
 
-## 📂 Project Structure
+## Project Structure
 ```
 Calculator
 │-- Calculator.cs        # Main application logic
@@ -26,7 +26,7 @@ Calculator
 │-- bin/Debug/Release/   # Compiled executables
 ```
 
-## 🚀 How to Run
+## How to Run
 1. **Clone the Repository** (or download the ZIP file)
    ```sh
    git clone https://github.com/yourusername/CSharp-Calculator.git
@@ -37,7 +37,7 @@ Calculator
    - The calculator will launch
 
 
-## 🔄 Functionality Breakdown
+## Functionality Breakdown
 ### **Event Handlers**
 - **`btn_digit_click(object sender, EventArgs e)`**
   - Handles **number button clicks**, appending digits to the display.
