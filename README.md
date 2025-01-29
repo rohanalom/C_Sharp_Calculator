@@ -10,7 +10,7 @@ This is a simple **Calculator** application built using **C# and Windows Forms**
 - ✅ **Styled Buttons** with hover effects and different colors for digits & operators
 - ✅ **Dynamic button event handling** to minimize redundant code
 
-## 🛠️ Technologies Used
+## Technologies Used
 - **C#** – Core programming language
 - **Windows Forms (WinForms)** – GUI framework
 - **.NET Framework / .NET Core** – Application runtime
